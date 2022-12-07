@@ -1,0 +1,4 @@
+2022-12-06 16:22:58,037 INFO io.project.worldlabs.WorldlabsApplication [main] Starting WorldlabsApplication using Java 18.0.2 on DESKTOP-VHT25O4 with PID 22812 (C:\Users\insta\Desktop\worldlabs\target\classes started by insta in C:\Users\insta\Desktop\worldlabs)
+2022-12-06 16:22:58,039 INFO io.project.worldlabs.WorldlabsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-12-06 16:22:59,046 INFO io.project.worldlabs.WorldlabsApplication [main] Started WorldlabsApplication in 1.262 seconds (JVM running for 1.649)
+2022-12-06 16:23:02,134 INFO io.project.worldlabs.service.TelegramBot [Worldlabsbot Telegram Executor] Отправлено пользователюМагазин WORLD-LAB
